@@ -1,0 +1,29 @@
+body{
+	background-image: url("../img/bg.jpg"); 
+	    padding: 60px;
+    margin: 100px;
+    background-size: auto;
+    background-position: left;
+	}
+
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+h1{
+	color: white;
+}
+td{
+	color: blue;
+}
+legend{
+	color: white;
+}
+table{
+	background-color: #ff9999;
+}
+h2{
+	color: white;
+}

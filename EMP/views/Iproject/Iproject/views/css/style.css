@@ -1,0 +1,29 @@
+body {
+    background-image: url(../../img/login.jpg);
+
+    padding: 60px;
+    margin: 100px;
+    background-size: cover;
+    background-position: center;
+    font-family: arial;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 50px;
+    color: #3747b3;
+    
+}
+h2 {
+    font-size: 30px;
+    color: #3747b3;
+    
+}
+
+p {
+    color: #2f4c5c;
+}
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
